@@ -1,0 +1,13 @@
+{
+    "display_name": "TTS",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [
+        "tts"
+    ],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Ouoertheo#7264",
+    "version": "1.0.0",
+    "homePage": "None"
+}
